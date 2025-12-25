@@ -1,0 +1,9 @@
+[package]
+name = "anchor-account-parse"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+base64 = "0.22"
+sha2 = "0.10"
+solana-program = "1.18"
